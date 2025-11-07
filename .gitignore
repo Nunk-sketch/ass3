@@ -3,8 +3,14 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
 # C extensions
 *.so
+
+
+# Files to be ignored
+news_data.npz
+
 
 # Distribution / packaging
 .Python
