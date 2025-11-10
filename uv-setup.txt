@@ -1,4 +1,6 @@
 Hvis det mangler så hent "VS 2022 Build Tools with Desktop C++ + Windows 10/11 SDK"
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+Kun "Desktop development with C++" med MSCV og Windows 11 SDK er nødvendig
 
 setx CL "/std:c++17 /D ssize_t=Py_ssize_t"
 
