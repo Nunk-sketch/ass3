@@ -1,0 +1,9 @@
+Hvis det mangler så hent "VS 2022 Build Tools with Desktop C++ + Windows 10/11 SDK"
+
+setx CL "/std:c++17 /D ssize_t=Py_ssize_t"
+
+uv python install
+
+uv venv
+
+uv sync
