@@ -13,6 +13,7 @@ __pycache__/
 # Files to be ignored
 data/news_data.npz
 glove.6B.50d.txt
+news_data.npz
 
 # Distribution / packaging
 .Python
